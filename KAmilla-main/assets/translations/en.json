@@ -1,0 +1,14 @@
+{
+    "hello": "hello",
+    "register": "register",
+    "register_form": "register form",
+    "name": "name",
+    "enter_correct_name": "enter correct name",
+    "number": "number",
+    "enter_correct_number": "enter correct number",
+    "email": "email",
+    "email_cannot_be_empty": "Email cannot be empty",
+    "invalid_email_address": "Invalid email address",
+    "submit": "submit",
+    "success": "success!"
+}

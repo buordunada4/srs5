@@ -1,0 +1,14 @@
+{ 
+    "hello": "привет",
+    "register": "регистрация",
+    "register_form": "регистрационная форма",
+    "name": "имя",
+    "enter_correct_name": "введите корректное имя",
+    "number": "номер",
+    "enter_correct_number": "введите корректный номер",
+    "email": "email",
+    "email_cannot_be_empty": "почта не может быть пустой",
+    "invalid_email_address": "неверный адрес почты",
+    "submit": "предоставить",
+    "success": "Успех!"
+}

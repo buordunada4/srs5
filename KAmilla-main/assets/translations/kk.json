@@ -1,0 +1,14 @@
+{
+    "hello": "salem",
+    "register": "tirkey",
+    "register_form": "tirkey formasy",
+    "name": "aty",
+    "enter_correct_name": "zharamdy atay engiziniz",
+    "number": "nomeri",
+    "enter_correct_number": "zharamdy nomirdi engiziniz",
+    "email": "email",
+    "email_cannot_be_empty": "poshta bos bolmauy kerek",
+    "invalid_email_address": "gjinf durys emes",
+    "submit": "beru",
+    "success": "zhetistik!"
+}
